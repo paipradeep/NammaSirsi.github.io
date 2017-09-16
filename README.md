@@ -1,4 +1,4 @@
-# nammasirsi.github.io
+# NAMMA-SIRSI
 
 Website that gives complete guide for the of tourism in **Sirsi** town and emergency contacts of the town.
 Languages used : HTML, CSS, JAVASCRIPT, BOOTSTRAP.
